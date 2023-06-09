@@ -1,0 +1,52 @@
+.one {
+    color: white;
+    background-color: rgb(108, 214, 203);
+}
+
+h2 {
+    color: red;
+    background-color: white;
+}
+
+aside {
+    color: white;
+    background-color: rgb(101, 200, 190);
+}
+
+.home {
+    display: flex;
+    justify-content: space-around;
+}
+.text-red{
+    color: rgb(229, 29, 29);
+}
+body {
+    background-color: rgb(101, 200, 190);
+    margin-top: 5em;
+}
+
+
+
+#bigger {
+    height: 7px;
+    width: 100%;
+    background-color: aquamarine;
+    border: 0;
+}
+
+ion-icon {
+    background-color: rgb(108, 500, 203);
+}
+
+;
+
+.new {
+    height: 500px;
+    background-color: rgb(108, 500, 203);
+}
+
+;
+
+p::first-letter {
+    font-size: 50px;
+}

@@ -1,0 +1,42 @@
+div {
+    width: 200px;
+    height: 200px;
+    background-color: #2A7668;
+}
+
+h1 {
+    background-color: pink;
+    width: 100px;
+}
+
+#one {
+    background-color: #e5989b;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    box-sizing: border-box;
+}
+
+#two {
+    background-color: #b5838d;
+    border-width: 3px;
+    border-color: #2A7668;
+    border-style: dashed;
+    box-sizing: border-box;
+}
+
+#three {
+    background-color: #6d6875;
+    border-width: 4p;
+    border-color: aqua;
+    border-style: inset;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #2A7668;
+    border-style: inset;
+    box-sizing: border-box;
+    border-width: 10px;
+    border-color: #30C4BD;
+}

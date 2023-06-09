@@ -1,0 +1,13 @@
+p::first-letter {
+    font-size: 50px;
+}
+
+
+
+p::first-line {
+    color: gold;
+}
+
+p::selection {
+    color: rebeccapurple;
+}

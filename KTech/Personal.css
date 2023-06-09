@@ -1,0 +1,15 @@
+img {
+    display: block;
+    margin-right: auto;
+    width: 40%;
+    border: 5px solid #22577a;
+
+}
+
+body {
+    margin-right: auto;
+    width: 640px;
+    padding: 40px;
+    font-family: Roboto;
+    background-color: #00b4d8;
+}
